@@ -34,10 +34,17 @@ This Java project demonstrates a simple graphical user interface (GUI) applicati
    git clone https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA.git
 
 -------------------------------------------------------------------------------------------------------------------------------
-![Login Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/logincap.PNG)
-
-![Signup Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/signupcap.PNG)
-
-![Info Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/formcapPNG.PNG)
+<div align="center">
+  <h2>Login Form</h2>
+  <img src="https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/logincap.PNG" alt="Login Form">
+</div>
+<div align="center">
+  <h2>Signup Form</h2>
+  <img src="https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/signupcap.PNG" alt="Signup Form">
+</div>
+<div align="center">
+  <h2>Info Form</h2>
+  <img src="https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/formcapPNG.PNG" alt="Info Form">
+</div>
 
 

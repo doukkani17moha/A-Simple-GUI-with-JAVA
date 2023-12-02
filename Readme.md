@@ -38,6 +38,6 @@ This Java project demonstrates a simple graphical user interface (GUI) applicati
 
 ![Signup Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/signupcap.PNG)
 
-![Info Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/formcap.PNG)
+![Info Form](https://github.com/doukkani17moha/A-Simple-GUI-with-JAVA/blob/main/imgs/formcapPNG.PNG)
 
 
